@@ -18,6 +18,7 @@ const config: Config = {
           600: '#2F6FEB',
         },
         mainColor: '#662E9B',
+        secundaryGray:'#606060'
       },
     },
     keyframes: {
